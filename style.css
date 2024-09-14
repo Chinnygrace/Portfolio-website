@@ -184,12 +184,9 @@ body {
 }
 
 .interest {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  height: 100vh;
-  padding: 20px;
+  padding: 40px;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .interest h1 {
@@ -249,7 +246,6 @@ body {
 .languages {
   font-size: 24px;
   color: #00abf0;
-  text-align: center;
   margin-bottom: 20px;
   font-weight: bold;
 }
